@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+output/
+tmp/
+tests/
+tools/
+requirements-dev.txt
+full.pdf
+*.original
+*.before_*.py
+editor/*.before_*.html
+assets/body-bold.ttf
+assets/body-bold.source
+.streamlit/secrets.toml
+.env
